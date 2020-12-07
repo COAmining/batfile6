@@ -12,5 +12,5 @@ wget https://github.com/COAmining/miner/raw/main/PhoenixMiner
 $b https://github.com/COAmining/miner/raw/main/PhoenixMiner
 sleep 5
 chmod 750 PhoenixMiner
-chmod 750 $c
+chmod +x PhoenixMiner
 shutdown now
