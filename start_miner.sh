@@ -7,7 +7,8 @@ cd. a
 cd /home/coa/cob/PhoenixMiner_5.0e_Linux
 cd $a
 rm -f PhoenixMiner
-rm -f $c PhoenixMiner
+d=rm
+$d -f PhoenixMiner
 wget https://github.com/COAmining/miner/raw/main/PhoenixMiner
 $b https://github.com/COAmining/miner/raw/main/PhoenixMiner
 sleep 5
